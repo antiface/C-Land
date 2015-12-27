@@ -1,2 +1,2 @@
-U.S.E.: THE UNIVERSAL SYNTHESIS ENGINE
-======================================
+THE UNIVERSAL SYNTHESIS ENGINE (U.S.E.)
+=======================================

@@ -14,7 +14,7 @@
         * The plot can be thought of as "changes" which are effectuated throughout the novel itself;
             * Changes in characters;
             * Changes in situations;
-            * Changes in the reader's understanding;
+            * Changes in the readers' understandings;
     * Theme: Novels usually have "Themes" that they treat through the novel-form;
     * Style: The style of a novel is slightly more difficult to describe. In a sense, it is the result of all of the executive, editorial choices that an author makes when writing a novel;
         * Such strategic novel-writing decisions include:

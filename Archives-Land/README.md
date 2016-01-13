@@ -11,6 +11,10 @@
         * Every scene/world has its own supporting "world model";
     * Characters: Characters are an important part of most novels. They are the "actors", the "agents" that act in the "world model";
     * Plot: Plot is an important element of fiction, and therefore of novels;
+        * The plot can be thought of as "changes" which are effectuated throughout the novel itself;
+            * Changes in characters;
+            * Changes in situations;
+            * Changes in the reader's understanding;
     * Theme: Novels usually have "Themes" that they treat through the novel-form;
     * Style: The style of a novel is slightly more difficult to describe. In a sense, it is the result of all of the executive, editorial choices that an author makes when writing a novel;
         * Such strategic novel-writing decisions include:

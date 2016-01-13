@@ -22,5 +22,6 @@
     * Style: The style of a novel is slightly more difficult to describe. In a sense, it is the result of all of the executive, editorial choices that an author makes when writing a novel;
         * Such strategic novel-writing decisions include:
             * Point of view;
+                * i.e. narrative point of view can be seen as the perspective from which one tells a work of fiction, the "angle" or "frame of reference" from which readers see the "action" of the novel itself;
             * Narrator;
             * but also ["tactical choices of grammar, punctuation, word usage, sentence and paragraph length and structure, tone, the use of imagery, chapter selection, titles, and on and on. In the process of writing a story, these choices meld to become the writer's voice, his or her own unique style."] (https://en.wikipedia.org/wiki/Fiction_writing#Elements_of_fiction);

@@ -9,6 +9,9 @@
         * There can be multiple such "worlds" in one novel;
         * In essence, every "scene" is its own world;
         * Every scene/world has its own supporting "world model";
+        * The novel's setting helps create an "atmosphere" for the fiction, helps readers imagine sceces;
+        * The setting can also convey information about a character;
+        * It can provide plot opportunities;
     * Characters: Characters are an important part of most novels. They are the "actors", the "agents" that act in the "world model";
     * Plot: Plot is an important element of fiction, and therefore of novels;
         * The plot can be thought of as "changes" which are effectuated throughout the novel itself;

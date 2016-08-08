@@ -5,4 +5,4 @@
 * What that means is that any structure can be created, it doesn't have to be a vector or a matrix or a bitmap or even an audio file, it's just a "modulated noise field";
 * More to come on the subjects of "noise modelling" and "noise modulation";
 * For the increasing importance of noise-based applications, see: Noise-based Logic @ [FLUCTUATION AND NOISE EXPLOITATION LABORATORY] (http://www.ece.tamu.edu/~noise/research_files/noise_based_logic.htm);
-[...]
+* [...]

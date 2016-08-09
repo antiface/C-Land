@@ -12,4 +12,5 @@
 * Also, in Noise Field Theory, a noise V(t), or N(t) if you will, is made up of the random variations of a quantity in time, i.e. this is the most "basic" definition;
 * Everything else is built up from there, i.e. for one-dimensional noise fields, generate random values in one dimension, in two dimensions for two-dimensional noises, and so on and so forth;
 * That is what a "noise function" does, it generates random values across dimensions, creating an abstract mathematical structure which can be represented in any medium, provided it has the capacity to represent such structures, i.e. Image(s), Sound(s), Physical Texture(s), etc.;
+* In addition to this, the envisioned software making up the Universal Synthesis Engine ("U.S.E.") would allow one to generate populations of images or sounds, across a spectrum that at one extreme allows full artistic freedom (and is less representative of "data" let's say) to the other extreme where the process could in theory and in principle be automated, having a more tight connection to data, i.e. more artistic constraints, more representative of data. (Keefe et al);
 * [...]

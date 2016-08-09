@@ -13,7 +13,7 @@ def noisefield():
 	for x in range(512):
 		for y in range(512):
 			im.putpixel((x,y), noxel())
-	im.save("<FILEPATH>/noisefield.png")
+	im.save("/<FILEPATH>/noisefield.png")
 	im.show()
 
 """
